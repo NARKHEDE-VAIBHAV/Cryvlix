@@ -103,7 +103,7 @@ Cryvlix supports basic contracts embedded in the payload. Example:
 | Virtual Machine (VM)      | ❌ Not available                 | ✅ EVM (Ethereum VM)   |
 | Gas Fees                  | ❌ None                          | ✅ Required for TXN    |
 | State Storage             | ❌ Not persistent                | ✅ Full account states |
-| P2P Network               | 🟡 Planned (Basic sync only)     | ✅ Fully decentralized |
+| P2P Network               | 🟡 Basic sync only (Planned to upgrade )     | ✅ Fully decentralized |
 | Smart Contract Execution  | 🟡 Manual/backend execution      | ✅ On-chain runtime    |
 | Transaction Validation    | ✅ Hash & Signature based        | ✅ Hash & Signature    |
 | Contract Storage          | ✅ JSON-based off-chain storage  | ✅ On-chain bytecode   |
